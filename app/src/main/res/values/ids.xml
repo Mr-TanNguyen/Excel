@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtgoc" type="id" />
+    <item name="titlehorizontal" type="id" />
+    <item name="titleVertical" type="id" />
+    <item name="center" type="id" />
+    <item name="titlehorizontalH" type="id" />
+    <item name="relativeLayouttitleHozirontal" type="id" />
+    <item name="relativeLayouttitleVertical" type="id" />
+</resources>
